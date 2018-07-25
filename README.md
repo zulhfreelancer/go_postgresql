@@ -59,3 +59,8 @@ INSERT INTO books (isbn, title, author, price) VALUES
 
 ALTER TABLE books ADD PRIMARY KEY (isbn);
 ```
+
+### Tools
+
+- [Postgres.app - PostgreSQL for Mac](https://postgresapp.com/)
+- [Cross database SQL client for Mac](https://sqlectron.github.io/)
