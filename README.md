@@ -4,7 +4,7 @@ Based on tutorial here:
 
 [https://www.alexedwards.net/blog/practical-persistence-sql](https://www.alexedwards.net/blog/practical-persistence-sql)
 
-**Terminal outputs**
+### Terminal outputs
 
 - First run, with `createBook()`.
 
@@ -38,11 +38,11 @@ new_isbn      , new_title, new_author, £9.99
 978-1505255607, The Time Machine, H. G. Wells, £5.99
 ```
 
-**Database**
+### Database
 
 Database name is `go_postgresql`.
 
-**SQL to create and populate table**
+### SQL to create and populate table
 
 ```
 CREATE TABLE books (
